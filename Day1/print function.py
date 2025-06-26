@@ -1,6 +1,6 @@
 print("Day 1 - Python Print Function")
 print("The function is declared like this:")
 print('print("what to print")')
-print("Hi\ndude\nHow are you doing?")
+print("Hi\ndude\nHow are you doing?\nFine!")
 print("Me" + "You")
-print("Me" + " " + "You")
+print("You" + " " + "Me")
